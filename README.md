@@ -2,10 +2,10 @@
 
 ## I'm a Computer Science and Engineering Student  
 
-- 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
-- 📚 I’m currently learning everything about Frontend and Backend technologies 😅
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- ⚡ Fun fact: I love to play pool and snooker 🎱.
+- 👨‍💻 I’m currently working on AI/ML projects and backend systems using Python, Node.js, and cloud tools.
+- 📚 I’m diving deep into systems programming and want to level up by learning lower-level languages like Rust and Go.
+-  💪🏼 Future Goals: Build intelligent, high-performance tools that bridge machine learning and infrastructure.
+-⚡ Fun fact: I’m a robotics enthusiast and love exploring how code interacts with the real world 🤖.
 
 ---
 
