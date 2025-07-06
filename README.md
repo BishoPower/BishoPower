@@ -21,7 +21,7 @@
 
 ### Socials 📝
 
-[<img align="left" alt="bilgehangecici | LinkedIn" height="30px" src="https://cdn-uicons.flaticon.com/3.0.0/uicons-brands/css/uicons-brands.css"/>][linkedin]
+[<img align="left" alt="bilgehangecici | LinkedIn" height="30px" src="http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff"/>][linkedin]
 [<img align="left" alt="bilgehangecici | Spotify" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725281.svg" />][Spotify]
 
 <br />
