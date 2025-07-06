@@ -20,7 +20,7 @@
 ### Socials 📝
 
 [<img align="left" alt="bishop | LinkedIn" height="30px" src="https://raw.githubusercontent.com/BishoPower/BishoPower/c4fe8a594be6afae870d053f305ac1e83de96ac4/linkedin.svg"/>][linkedin]
-[<img align="left" alt="bilgehangecici | Spotify" height="30px" src="https://raw.githubusercontent.com/BishoPower/BishoPower/fb47b80c01ba10ff5fcf075561a894af9cec7bfd/spotify.svg" />][Spotify]
+[<img align="left" alt="" height="30px" src="https://raw.githubusercontent.com/BishoPower/BishoPower/fb47b80c01ba10ff5fcf075561a894af9cec7bfd/spotify.svg" />][Spotify]
 
 <br />
 
@@ -65,17 +65,9 @@
 
 ---
 
-### ⭐️ From [Bgstatic](https://github.com/Bgstatic) ### 
+### ⭐️ From [Bgstatic](https://github.com/BishoPower) ### 
 
 ---
 
-[website]: http://bilgehangecici.site/
-[instagram]: https://www.instagram.com/bilgehangecici
-[linkedin]: https://www.linkedin.com/in/bilgehan-geçici-8b368614a/
-[Spotify]: https://open.spotify.com/user/11153360645
-
-
-----
-Credit: [Bgstatic](https://github.com/Bgstatic)
-
-Last Edited on: 23/09/2020
+[linkedin]: https://www.linkedin.com/in/bishop-g-010350291/
+[Spotify]: https://open.spotify.com/user/4r2b3ufus0wu4o5ykvd34o0x6
