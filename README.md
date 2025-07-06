@@ -13,8 +13,6 @@
 
 ### Spotify Playing 🎧
 
-<img align="right" alt="GIF" height="170px" src="https://github.com/BishoPower/BishoPower/blob/main/linkedin.svg" />
-
 [![Spotify](https://novatorem-git-main-bishops-projects-823dc70e.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
 
 ---
