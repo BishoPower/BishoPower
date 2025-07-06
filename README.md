@@ -19,8 +19,8 @@
 
 ### Socials 📝
 
-[<img align="left" alt="bilgehangecici | LinkedIn" height="30px" src="https://raw.githubusercontent.com/BishoPower/BishoPower/c4fe8a594be6afae870d053f305ac1e83de96ac4/linkedin.svg"/>][linkedin]
-[<img align="left" alt="bilgehangecici | Spotify" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725281.svg" />][Spotify]
+[<img align="left" alt="bishop | LinkedIn" height="30px" src="https://raw.githubusercontent.com/BishoPower/BishoPower/c4fe8a594be6afae870d053f305ac1e83de96ac4/linkedin.svg"/>][linkedin]
+[<img align="left" alt="bilgehangecici | Spotify" height="30px" src="https://raw.githubusercontent.com/BishoPower/BishoPower/fb47b80c01ba10ff5fcf075561a894af9cec7bfd/spotify.svg" />][Spotify]
 
 <br />
 
