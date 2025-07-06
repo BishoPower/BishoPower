@@ -12,15 +12,23 @@
 
 
 ### Spotify Playing 🎧
-
-[![Spotify](https://novatorem-git-main-bishops-projects-823dc70e.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
+<a href="https://open.spotify.com/user/11153360645">
+  <picture>
+    <source srcset="https://novatorem-git-main-bishops-projects-823dc70e.vercel.app/api/spotify" />
+    <img 
+      alt="Spotify • Not playing" 
+      src="static/not-playing.svg" 
+      width="350"
+    />
+  </picture>
+</a>
 
 ---
 
 ### Socials 📝
 
 [<img align="left" alt="bishop | LinkedIn" height="30px" src="https://raw.githubusercontent.com/BishoPower/BishoPower/c4fe8a594be6afae870d053f305ac1e83de96ac4/linkedin.svg"/>][linkedin]
-[<img align="left" alt="" height="30px" src="https://raw.githubusercontent.com/BishoPower/BishoPower/fb47b80c01ba10ff5fcf075561a894af9cec7bfd/spotify.svg" />][Spotify]
+[<img align="left" alt="bishop | spotify" height="30px" src="https://raw.githubusercontent.com/BishoPower/BishoPower/fb47b80c01ba10ff5fcf075561a894af9cec7bfd/spotify.svg"/>][Spotify]
 
 <br />
 
