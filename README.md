@@ -4,8 +4,8 @@
 
 - 👨‍💻 I’m currently working on AI/ML projects and backend systems using Python, Node.js, and cloud tools.
 - 📚 I’m diving deep into systems programming and want to level up by learning lower-level languages like Rust and Go.
--  💪🏼 Future Goals: Build intelligent, high-performance tools that bridge machine learning and infrastructure.
--⚡ Fun fact: I’m a robotics enthusiast and love exploring how code interacts with the real world 🤖.
+- 💪🏼 Future Goals: Build intelligent, high-performance tools that bridge machine learning and infrastructure.
+- ⚡Fun fact: I’m a robotics enthusiast and love exploring how code interacts with the real world 🤖.
 
 ---
 
