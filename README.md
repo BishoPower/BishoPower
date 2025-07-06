@@ -18,7 +18,7 @@
     <img 
       alt="Spotify • Not playing" 
       src="https://raw.githubusercontent.com/BishoPower/BishoPower/fb47b80c01ba10ff5fcf075561a894af9cec7bfd/spotify.svg" 
-      width="350"
+      width="35"
     />
   </picture>
 </a>
