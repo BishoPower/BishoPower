@@ -19,7 +19,7 @@
 
 ### Socials 📝
 
-[<img align="left" alt="bilgehangecici | LinkedIn" height="30px" src="https://github.com/BishoPower/BishoPower/blob/main/linkedin.svg"/>][linkedin]
+[<img align="left" alt="bilgehangecici | LinkedIn" height="25px" src="https://github.com/BishoPower/BishoPower/blob/main/linkedin.svg"/>][linkedin]
 [<img align="left" alt="bilgehangecici | Spotify" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725281.svg" />][Spotify]
 
 <br />
