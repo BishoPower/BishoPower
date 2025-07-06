@@ -65,7 +65,7 @@
 
 ---
 
-### ⭐️ From [Bgstatic](https://github.com/BishoPower) ### 
+### ⭐️ From [BishoPower](https://github.com/BishoPower) ### 
 
 ---
 
