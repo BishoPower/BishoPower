@@ -12,7 +12,7 @@
 
 
 ### Spotify Playing 🎧
-<a href="https://open.spotify.com/user/11153360645">
+<a href="https://open.spotify.com/user/4r2b3ufus0wu4o5ykvd34o0x6">
   <picture>
     <source srcset="https://novatorem-git-main-bishops-projects-823dc70e.vercel.app/api/spotify" />
     <img 
