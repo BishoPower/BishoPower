@@ -1,6 +1,6 @@
 # Hi there, I'm Bishop - <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 
-## I'm a Computer Science and Engineering Student  
+## I'm a Computer Engineering Student  
 
 - 👨‍💻 I’m currently working on AI/ML projects and backend systems using Python, Node.js, and cloud tools.
 - 📚 I’m diving deep into systems programming and want to level up by learning lower-level languages like Rust and Go.
