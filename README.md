@@ -13,7 +13,7 @@
 
 ### Spotify Playing 🎧
 
-<a href="https://spotibadge.vercel.app/redirect/YOUR_ID">
+<a href="https://spotibadge.vercel.app/redirect/4r2b3ufus0wu4o5ykvd34o0x6">
   <img
     src="https://spotibadge.vercel.app/api/now-playing/YOUR_ID.svg?background_type=blur_dark&show_status=true"
     alt="Spotify Now Playing"
