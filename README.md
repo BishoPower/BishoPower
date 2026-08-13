@@ -13,11 +13,11 @@
 
 ### Spotify Playing 🎧
 
-<a href="https://spotibadge.vercel.app/redirect/4r2b3ufus0wu4o5ykvd34o0x6">
+<a href="https://spotibadge.vercel.app/redirect/.eJwVzsFOwyAAgOF34awJbYGCN7asbta2zuiacDFAy2hnsQ4ty4zvLh7_5Dv8P-AM7gDfc1x7HVi_0DCGdYDB5m0xN27fFGioDq4VvEabsVw2lt9aOo3k7bjd1dfp5bG3T9Ul9Yfvrwo5lM1u29jK40L0Jxpa9KnL8CpKrODxYVUm98K68fzMl_Z0ucpakPfdAtcTBzegiyerwduPOYYeYlGJTWpgp7CBqFeZIhoTpmVGWZJIyP6djw4Zxkie4zQhBnWKsOghJRRnWCJtDPj9AwriRxU.0-NXi5ZXCXlmfKlGVhDvW4-YAks">
   <img
-    src="https://spotibadge.vercel.app/api/now-playing/YOUR_ID.svg?background_type=blur_dark&show_status=true"
+    src="https://spotibadge.vercel.app/api/now-playing/.eJwVzsFOwyAAgOF34awJbYGCN7asbta2zuiacDFAy2hnsQ4ty4zvLh7_5Dv8P-AM7gDfc1x7HVi_0DCGdYDB5m0xN27fFGioDq4VvEabsVw2lt9aOo3k7bjd1dfp5bG3T9Ul9Yfvrwo5lM1u29jK40L0Jxpa9KnL8CpKrODxYVUm98K68fzMl_Z0ucpakPfdAtcTBzegiyerwduPOYYYeYlGJTWpgp7CBqFeZIhoTpmVGWZJIyP6djw4Zxkie4zQhBnWKsOghJRRnWCJtDPj9AwriRxU.0-NXi5ZXCXlmfKlGVhDvW4-YAks.svg?content_size=medium&background_type=blur_dark&border_color=ffffff&background_color=181414&width=540&height=135"
     alt="Spotify Now Playing"
-    width="600"
+    width="540"
   />
 </a>
 
