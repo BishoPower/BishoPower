@@ -12,15 +12,13 @@
 
 
 ### Spotify Playing 🎧
-<a href="https://open.spotify.com/user/4r2b3ufus0wu4o5ykvd34o0x6">
-  <picture>
-    <source srcset="https://novatorem-git-main-bishops-projects-823dc70e.vercel.app/api/spotify" />
-    <img 
-      alt="Spotify • Not playing" 
-      src="https://raw.githubusercontent.com/BishoPower/BishoPower/fb47b80c01ba10ff5fcf075561a894af9cec7bfd/spotify.svg" 
-      width="600"
-    />
-  </picture>
+
+<a href="https://spotibadge.vercel.app/redirect/YOUR_ID">
+  <img
+    src="https://spotibadge.vercel.app/api/now-playing/YOUR_ID.svg?background_type=blur_dark&show_status=true"
+    alt="Spotify Now Playing"
+    width="600"
+  />
 </a>
 
 ---
